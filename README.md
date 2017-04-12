@@ -5,7 +5,7 @@ All of the material here is released under the [Apache 2.0 License](./LICENSE)
 
 ### Agenda
 * A brief presentation : 15 mins
-* Product Demo : 35 mins
+* Product Demo : 30 mins
 
 ### [Core Labs](./Labs/Core)
 1. [API Development - Create a Reverse Proxy with an HTTP Target](./Labs/Core/01-Create-a-Reverse-Proxy)
